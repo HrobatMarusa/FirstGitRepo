@@ -1,4 +1,5 @@
 console.log("Hello from a new file");
 console.log("Another line");
 
-console.log("Added a change to master");
+//new feature :)
+console.log("Adding a new feature");
