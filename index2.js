@@ -3,3 +3,4 @@ console.log("Another line");
 
 //new feature :)
 console.log("Adding a new feature");
+console.log("Hello");
